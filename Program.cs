@@ -10,29 +10,27 @@ namespace Exercicio_Condicionais
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Executando o projeto 7 - Condicionais: \r\n");
+            Console.WriteLine("Executando Projeto - Condicionais: \r\n");
 
-            int idadeAna = 11;
+            int idadeFulana = 11;
             int quantidadePessoas = 2;
 
-            if (idadeAna >= 18)
+            if (idadeFulana >= 18)
             {
-                Console.WriteLine("Ana possui mais de 18 anos de idade. Pode participar.");
+                Console.WriteLine("Fulana possui mais de 18 anos de idade. Pode participar.");
 
             }
             else
             {
                 if (quantidadePessoas >= 2)
                 {
-                    Console.WriteLine("Ana não possui mais de 18 anos, mas está acompanhada. Pode entrar.");
+                    Console.WriteLine("Fulana não possui mais de 18 anos, mas está acompanhada. Pode entrar.");
                 }
                 else
                 {
-                    Console.WriteLine("Ana não possui mais de 18 anos de idade. Não pode entrar.");
+                    Console.WriteLine("Fulana não possui mais de 18 anos de idade e não está acompanhada. Não pode entrar.");
                 }
             }
-
-
             Console.ReadLine();
         }
     }
