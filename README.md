@@ -2,6 +2,13 @@
 
 Olá, seja muito bem vinda(o)!
 
+📚 Aproveite o código desse exercício
+<br>
+👩‍💻 Refaça ele do seu jeito
+<br>
+😉 Se tiver qualquer dúvida, me contate
+
+<br>
 📝 Exercício - Condicionais em C# (CSharp):
 
 - Criei a variável do tipo inteiro com o nome de [idadeFulana], que é igual 11.
@@ -17,9 +24,4 @@ Olá, seja muito bem vinda(o)!
 - Senão (else), ou seja, caso a [quantidadePessoas] seja menor do que 2.
 - Aparece a mensagem: "Fulana não possui mais de 18 anos de idade e não está acompanhada. Não pode entrar"
 
-- Finalizei com o Console.ReadLine() para pausar a execução do programa antes de limpar o console e solicitar que o usuário pressione a tecla Enter antes de encerrar o aplicativo, assim consigo visualizar o resultado da execução do exercício sem que ele suma. 
-
-
-📚 Aproveite o código desse exercício
-👩‍💻 Refaça ele do seu jeito
-😉 Se tiver qualquer dúvida, me contate
+- Finalizei com o Console.ReadLine() para pausar a execução do programa antes de limpar o console e solicitar que o usuário pressione a tecla Enter antes de encerrar o aplicativo, assim consigo visualizar o resultado da execução do exercício sem que ele suma.
