@@ -1,4 +1,4 @@
-# CSharp - Condicionais
+# CSharp - Condicionais <img align="center" alt="Ana-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
 Olá, seja muito bem vinda(o)!
 
