@@ -1,9 +1,12 @@
-## <img align="center" alt="Ana-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> CSharp - Condicionais
+![banner CSharp - Condicionais](https://github.com/AnaProgramando/CSharp_Condicionais/blob/fd5c24f79915bd1820210b338608ef1a6e7506c4/CSharp_Condicionais.png)
+----
 
 <img src="https://img.shields.io/static/v1?label=Status&message=complete&color=32CD32&style=for-the-badge"/>
 
 <p align="center">
  <a href="#-welcome">Welcome</a> | 
+ <a href="#-csharp---condicionais">Condicionais</a> |  
+ <a href="#-passos-para-exerc%C3%ADcio---condicionais-em-c-csharp">Passos para Exercício</a> |  
  <a href="#-d%C3%BAvidas">Dúvidas</a> | 
  <a href="#%EF%B8%8F-contatos">Contatos</a> | 
  <a href="#%EF%B8%8F-desenvolvedora">Desenvolvedora</a>
@@ -15,6 +18,10 @@ Olá, seja muito bem vinda(o)!
 
 Tive a ideia de começar o desafio de #100DaysOfCode, além de compartilhar alguns projetos para quem tem interesse em aprender C#, por isso se trata de algo bem simples para quem gostaria de iniciar na programação ou precisa melhorar as suas habilidades.
 
+<br>
+
+## <img align="center" alt="Ana-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> CSharp - Condicionais
+
 📚 Aproveite o código desse exercício
 
 👩‍💻 Refaça do seu jeito
@@ -23,7 +30,7 @@ Tive a ideia de começar o desafio de #100DaysOfCode, além de compartilhar algu
 
 <br>
 
-## 📝 Exercício - Condicionais em C# (CSharp):
+## 📝 Passos para Exercício - Condicionais em C# (CSharp):
 
 - Crie a variável do tipo inteiro com o nome de [idadeFulana], que é igual 11.
 - Crie a variável do tipo inteiro com o nome de [quantidadePessoas], que é igual 2.
@@ -37,7 +44,7 @@ Tive a ideia de começar o desafio de #100DaysOfCode, além de compartilhar algu
 - Aparece a mensagem: "Fulana não possui mais de 18 anos, mas está acompanhada. Pode entrar".
 - Senão (else), ou seja, caso a [quantidadePessoas] seja menor do que 2.
 - Aparece a mensagem: "Fulana não possui mais de 18 anos de idade e não está acompanhada. Não pode entrar"
-- Finalize com o Console.ReadLine() para pausar a execução do programa antes de limpar o console e solicitar que o usuário pressione a tecla Enter antes de encerrar o aplicativo, assim consigo visualizar o resultado da execução do exercício sem que ele suma.
+- Finalize com o Console.ReadLine() para pausar a execução do programa antes de limpar o console e solicitar que o usuário pressione a tecla Enter antes de encerrar o aplicativo, assim é possível visualizar o resultado da execução do exercício sem que ele suma.
 
 <br>
 
@@ -77,9 +84,9 @@ Se precisar de ajuda, entre em contato comigo 😉
 
 
 <br><br>
-[⬆ Voltar ao top](https://github.com/AnaProgramando/CSharp_Fatorial-While/blob/main/README.md#) <br>
+[⬆ Voltar ao top](https://github.com/AnaProgramando/CSharp_Condicionais/blob/main/README.md#) <br>
 
 
 <div>
-  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/CSharp_Fatorial-For/blob/1a931f3e549e2317175beec5a868870999355f18/Stranger%20Things.png"/>
+  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/CSharp_Condicionais/blob/fd5c24f79915bd1820210b338608ef1a6e7506c4/Rogue%20One%202.gif"/>
 </div>
